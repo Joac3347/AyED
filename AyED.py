@@ -41,7 +41,7 @@ class Novedades:
         self.TipoUsuario = ""
         self.Estado = ""
 
-a
+xd
 AFU = "C:\TP3"
 AFL = "C:\TP3"
 AFP = "C:\TP3"
